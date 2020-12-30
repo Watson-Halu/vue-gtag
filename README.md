@@ -1,4 +1,4 @@
-# tryvuegtag
+# Vue & vue-gtag node module
 
 ## Project setup
 ```
